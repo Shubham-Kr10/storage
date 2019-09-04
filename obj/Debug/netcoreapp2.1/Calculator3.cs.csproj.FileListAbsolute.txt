@@ -1,0 +1,11 @@
+C:\Users\Shubham Yadav\source\repos\Calculator3.cs\bin\Debug\netcoreapp2.1\Calculator3.cs.deps.json
+C:\Users\Shubham Yadav\source\repos\Calculator3.cs\bin\Debug\netcoreapp2.1\Calculator3.cs.runtimeconfig.json
+C:\Users\Shubham Yadav\source\repos\Calculator3.cs\bin\Debug\netcoreapp2.1\Calculator3.cs.runtimeconfig.dev.json
+C:\Users\Shubham Yadav\source\repos\Calculator3.cs\bin\Debug\netcoreapp2.1\Calculator3.cs.dll
+C:\Users\Shubham Yadav\source\repos\Calculator3.cs\bin\Debug\netcoreapp2.1\Calculator3.cs.pdb
+C:\Users\Shubham Yadav\source\repos\Calculator3.cs\obj\Debug\netcoreapp2.1\Calculator3.cs.csprojAssemblyReference.cache
+C:\Users\Shubham Yadav\source\repos\Calculator3.cs\obj\Debug\netcoreapp2.1\Calculator3.cs.csproj.CoreCompileInputs.cache
+C:\Users\Shubham Yadav\source\repos\Calculator3.cs\obj\Debug\netcoreapp2.1\Calculator3.cs.AssemblyInfoInputs.cache
+C:\Users\Shubham Yadav\source\repos\Calculator3.cs\obj\Debug\netcoreapp2.1\Calculator3.cs.AssemblyInfo.cs
+C:\Users\Shubham Yadav\source\repos\Calculator3.cs\obj\Debug\netcoreapp2.1\Calculator3.cs.dll
+C:\Users\Shubham Yadav\source\repos\Calculator3.cs\obj\Debug\netcoreapp2.1\Calculator3.cs.pdb
